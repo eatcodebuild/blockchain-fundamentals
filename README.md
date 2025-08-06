@@ -104,6 +104,8 @@ Interview discussion and portfolio showcase.
 
 Explaining immutability, proof-of-work, and hash chaining in a tangible way.
 
+
+
 📌 Key Takeaways
 Blockchains are secure by design because altering one block requires re-mining all subsequent blocks.
 
