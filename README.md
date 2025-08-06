@@ -89,8 +89,8 @@ Node.js (v18+ recommended)
 Install & Run:
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/eatcodebuild/blockchain-fundamentals.git
+cd blockchain-fundamentals
 node blockchain.js
 ```
 
@@ -112,5 +112,5 @@ Proof-of-work slows down malicious actors by making block creation computational
 Tampering is easily detected with chain validation logic.
 
 📬 Connect with Me
-💻 GitHub: YourUsername
-💼 LinkedIn: YourLinkedInProfile
+💻 GitHub: /eatcodebuild
+💼 LinkedIn: /ryan-jeffrey-b21327247
